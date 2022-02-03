@@ -17,4 +17,7 @@ User's mouseevent changes the y-axis coordinates of the three primary colors. A 
 ## A simple demo
 Here are some screenshots of the program output.
 Check out the video demo by downloading the video_demo.mp4 file. 
-
+![](screenshots/Capture1.PNG)
+![](screenshots/Capture2.PNG)
+![](screenshots/Capture3.PNG)
+![](screenshots/Capture4.PNG)
